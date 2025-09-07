@@ -69,8 +69,6 @@ Analyze multi-year, multi-region data to answer:
    ```bash
    git clone https://github.com/yourusername/vaccination-data-analysis.git
    cd vaccination-data-analysis
-````
-
 2. **Install dependencies:**
 
    ```bash
