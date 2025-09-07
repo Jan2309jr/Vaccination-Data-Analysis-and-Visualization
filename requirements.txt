@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy
+sqlalchemy
+psycopg2-binary
+flask
+python-dotenv
+gunicorn
+pycountry    # for ISO validations
+geopandas    # optional for geo maps in notebook
+matplotlib
+jupyterlab
+scikit-learn # if you do more modelling
